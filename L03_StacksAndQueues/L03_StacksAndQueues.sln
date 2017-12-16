@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L03_StacksAndQueues", "L03_StacksAndQueues\L03_StacksAndQueues.csproj", "{9C2BD4D7-6531-4E5A-A33E-433E7FEFC22D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_SimpleCalculator", "Ex_SimpleCalculator\Ex_SimpleCalculator.csproj", "{7EFB7BBF-51B8-4619-8722-0A90ED79421D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9C2BD4D7-6531-4E5A-A33E-433E7FEFC22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9C2BD4D7-6531-4E5A-A33E-433E7FEFC22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9C2BD4D7-6531-4E5A-A33E-433E7FEFC22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9C2BD4D7-6531-4E5A-A33E-433E7FEFC22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EFB7BBF-51B8-4619-8722-0A90ED79421D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFB7BBF-51B8-4619-8722-0A90ED79421D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFB7BBF-51B8-4619-8722-0A90ED79421D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFB7BBF-51B8-4619-8722-0A90ED79421D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
