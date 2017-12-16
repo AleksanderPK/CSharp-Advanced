@@ -10,7 +10,7 @@ namespace Ex_SimpleCalculator
     {
         static void Main(string[] args)
         {
-            var input = "2 + 5 + 10 - 2 - 1";
+            var input = Console.ReadLine();
             var values = input.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
             var stack = new Stack<string>(values.Reverse());
 
