@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX03_StackAndQueues", "EX03_StackAndQueues\EX03_StackAndQueues.csproj", "{58B13EF1-2204-405C-BAF7-57E658C53BC9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr01_ReversNumbersWithAStack", "EX03_StackAndQueues\Pr01_ReversNumbersWithAStack.csproj", "{58B13EF1-2204-405C-BAF7-57E658C53BC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
